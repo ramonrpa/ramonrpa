@@ -15,9 +15,9 @@
 
 
 ---
-<a href="https://github.com/ramonrpa">
+<a align="left" href="https://github.com/ramonrpa">
 <img align="left" alt="Ramon Rodrigues Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonrpa&show_icons=true&hide_border=true&theme=radical&layout=compact" />
 </a>
-<a href="https://github.com/ramonrpa">
+<a align="left" href="https://github.com/ramonrpa">
 <img align="right" alt="Ramon Rodrigues Github Stats" src="https://github-readme-stats.vercel.app/api?username=ramonrpa&show_icons=true&hide_border=true&theme=radical" />
 </a>
