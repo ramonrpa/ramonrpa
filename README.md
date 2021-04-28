@@ -27,9 +27,4 @@
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="SQL" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
-<p align="center">
-<h2>Sociais</h2>
-<a href="https://www.linkedin.com/in/ramon-rodrigues-pa/"><img alt="JavaScript" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/ramonrpa"><img alt="Github" src="https://img.shields.io/badge/Portfólio-14161A?style=for-square&logo=PureScript&logoColor=white"/></a>
-<a href="mailto:ramon@eteryun.com.br"><img alt="Github" src="https://img.shields.io/badge/Email-0077B5?style=for-square&logo=gmail&logoColor=white"/></a>
-</p>
+
