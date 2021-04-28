@@ -21,11 +21,6 @@
 <a><img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /></a>
 <a><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
 <a><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-square&logo=css3&logoColor=white" /></a>
-<a><img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-square&logo=sass&logoColor=white"/></a>
-<a><img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
-<a><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-square&logo=postgresql&logoColor=white" /></a>
-<a><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
-<a><img alt="SQL" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" /></a>
 </p>
 
 <p align="center">
