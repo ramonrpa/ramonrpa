@@ -6,7 +6,9 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ramonrpa&show_icons=true&hide_border=true&theme=radical">  
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonrpa&show_icons=true&hide_border=true&theme=radical&layout=compact">
-<p>Olá, meu nome é Ramon, tenho 20 anos. Comecei no mundo da programação com 14 anos e hoje estudo bastante sobre desenvolvimento mobile com React Native, React.js para Front-end, Node.js e PHP para Back-end.</p>
+<p>
+Meu nome é Ramon, sou um desenvolvedor Fullstack com mais de 2 anos de experiência em React.js, Typescript, Nodejs, C# e Java.
+Sou um grande entusiasta em modificações de jogos e amo poder resolver problemas utilizando a programação..</p>
 
 <p align="center">
 <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white" />
