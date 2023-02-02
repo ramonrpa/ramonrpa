@@ -7,7 +7,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ramonrpa&show_icons=true&hide_border=true&theme=radical">  
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonrpa&show_icons=true&hide_border=true&theme=radical&layout=compact">
 <p>
-Meu nome é Ramon, sou um desenvolvedor Fullstack com mais de 2 anos de experiência em React.js, Typescript, Nodejs, C# e Java.
+Meu nome é Ramon, sou um desenvolvedor Fullstack com mais de 3 anos de experiência em React.js, Typescript, Nodejs, C# e Java.
 Sou um grande entusiasta em modificações de jogos e amo poder resolver problemas utilizando a programação..</p>
 
 <p align="center">
