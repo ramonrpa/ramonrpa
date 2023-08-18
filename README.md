@@ -1,30 +1,42 @@
+# Ramon Rodrigues
 
+---
 
-<h1 align="center">Ramon Rodrigues</h1>
-<p align="center">
-<p align="center"><samp> Developer Web & Mobile </samp></p>
+Sou um desenvolvedor FullStack e Modder com mais de 3 anos de experiência em React.js, Typescript, Nodejs, C# e Java.
+Sou um grande entusiasta em modificações de jogos e amo poder resolver problemas utilizando a programação.
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ramonrpa&show_icons=true&hide_border=true&theme=radical">  
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonrpa&show_icons=true&hide_border=true&theme=radical&layout=compact">
-<p>
-Meu nome é Ramon, sou um desenvolvedor Fullstack com mais de 3 anos de experiência em React.js, Typescript, Nodejs, C# e Java.
-Sou um grande entusiasta em modificações de jogos e amo poder resolver problemas utilizando a programação..</p>
+### Conecte-se Comigo
 
-<p align="center">
-<img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-square&logo=react&logoColor=61DAFB" />
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-square&logo=react&logoColor=61DAFB" />
-<img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-square&logo=express&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-square&logo=python&logoColor=white" />
-<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-square&logo=php&logoColor=white" />
-<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-square&logo=laravel&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-square&logo=css3&logoColor=white" />
-<img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-square&logo=sass&logoColor=white"/>
-<img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-square&logo=postgresql&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img alt="SQL" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-</p>
+---
+
+[![DIO.Me](https://img.shields.io/badge/-Perfil_dio-000?style=for-the-badge&labelColor=ffffff&color=ceff48)](https://web.dio.me/users/ramon_rpa2018)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=ceff48&color:FFF)](mailto:ramonrodriguespa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ceff48&color:FFF)](https://www.linkedin.com/in/ramon-rodrigues-pa/)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=ceff48&color:FFF)](https://www.youtube.com/@casalfullstack)
+[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=ceff48&color:FFF)](https://discordapp.com/users/352181696285900812)
+
+### Principais Tecnologias
+
+---
+
+![HTML5](https://img.shields.io/badge/-Html5-000?style=for-the-badge&logo=html5&logoColor=ceff48&color:FFF)
+![CSS3](https://img.shields.io/badge/-Css3-000?style=for-the-badge&logo=css3&logoColor=ceff48&color:FFF)
+![SASS](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=sass&logoColor=ceff48&color:FFF)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=ceff48&color:FFF)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=ceff48&color:FFF)
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk&logoColor=ceff48&color:FFF)
+![C#](https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=c-sharp&logoColor=ceff48&color:FFF)
+![Php](https://img.shields.io/badge/-Php-000?style=for-the-badge&logo=php&logoColor=ceff48&color:FFF)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=ceff48&color:FFF)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=ceff48&color:FFF)
+![React Native](https://img.shields.io/badge/-React_Native-000?style=for-the-badge&logo=react&logoColor=ceff48&color:FFF)
+![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular&logoColor=ceff48&color:FFF)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=PostgreSQL&logoColor=ceff48&color:FFF)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL&logoColor=ceff48&color:FFF)
+![SQLite](https://img.shields.io/badge/-SQLite-000?style=for-the-badge&logo=SQLite&logoColor=ceff48&color:FFF)
+
+### Status Github
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramonrpa&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=ceff48&text_color=FFF&border_radius=3&border_color=ceff48&icon_color=ceff48&theme=jolly)
