@@ -12,7 +12,6 @@ Sou um grande entusiasta em modificações de jogos e amo poder resolver problem
 [![DIO.Me](https://img.shields.io/badge/-Perfil_dio-000?style=for-the-badge&labelColor=ffffff&color=ceff48)](https://www.dio.me/users/ramon_rpa2018)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=ceff48&color:FFF)](mailto:ramonrodriguespa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ceff48&color:FFF)](https://www.linkedin.com/in/ramon-rodrigues-pa/)
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=ceff48&color:FFF)](https://www.youtube.com/@casalfullstack)
 [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=ceff48&color:FFF)](https://discordapp.com/users/352181696285900812)
 
 ### Principais Tecnologias
